@@ -1,0 +1,2 @@
+(this["webpackJsonpbookeinstein-app"]=this["webpackJsonpbookeinstein-app"]||[]).push([[94],{1078:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));t(0);var i=t(46),s=t(1);function o(){return Object(i.a)({roleList:["ADMIN","SUPER_ADMIN"]}),Object(s.jsx)("div",{children:"View Course"})}}}]);
+//# sourceMappingURL=94.5e9d0f66.chunk.js.map

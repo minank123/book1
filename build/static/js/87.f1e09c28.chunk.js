@@ -1,0 +1,2 @@
+(this["webpackJsonpbookeinstein-app"]=this["webpackJsonpbookeinstein-app"]||[]).push([[87],{1060:function(e,t,n){"use strict";n.r(t);n(0);var i=n(906),s=n(20),c=n(115),a=n(46),r=n(1);t.default=function(){return Object(a.a)({roleList:["ADMIN","SCHOOL_ADMIN","SUPER_ADMIN"]}),Object(r.jsx)(i.a,{style:{maxWidth:"lg"},children:Object(r.jsx)(s.a,{container:!0,spacing:c.b,children:Object(r.jsx)("h3",{style:{margin:20},children:" WELCOME TO YOUR DASHBOARD !!! "})})})}}}]);
+//# sourceMappingURL=87.f1e09c28.chunk.js.map
